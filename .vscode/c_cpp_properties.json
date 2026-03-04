@@ -1,0 +1,16 @@
+{
+  "configurations": [
+    {
+      "name": "Fedora",
+      "includePath": [
+        "/usr/include",
+        "/usr/include/rpm"
+      ],
+      "defines": [],
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "intelliSenseMode": "gcc-x64"
+    }
+  ],
+  "version": 4
+}
