@@ -7,7 +7,7 @@
       "type": "cppdbg",
       "request": "launch",
       "program": "${workspaceFolder}/rpm-inspect",
-      "args": ["some.rpm"],
+      "args": ["/home/amertl/nano-8.5-2.fc43.x86_64.rpm"],
       "stopAtEntry": false,
       "cwd": "${workspaceFolder}",
       "environment": [],
