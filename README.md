@@ -16,5 +16,5 @@ make
 
 ## Usage
 ```
-./rpm-header-reader path/to/package.rpm
+./rpm-inspect path/to/package.rpm
 ```
