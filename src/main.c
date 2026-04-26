@@ -8,6 +8,7 @@
 
 #include "rpm_reader.h"
 
+// merge conflict - 2
 
 int main (int argc, char *argv[]) {
 
